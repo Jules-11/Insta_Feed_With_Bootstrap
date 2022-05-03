@@ -1,0 +1,13 @@
+.btn {
+    box-shadow: none !important
+}
+
+#pills-home-tab.active {
+    background-color: grey !important;
+    color: white !important;
+}
+
+#pills-profile-tab.active {
+    background-color: grey !important;
+    color: white !important;
+}
